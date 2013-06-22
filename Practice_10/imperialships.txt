@@ -1,0 +1,7 @@
+DeathStar 80.147
+Destroyer 50
+LargeDestroyer 9000
+TieFighter Darth Vader
+TieFighter Tinna
+TieFighter Ente
+TieFighter Schnitzel
